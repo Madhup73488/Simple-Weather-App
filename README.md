@@ -33,7 +33,7 @@ To run the Weather App locally:
 - Icons provided by [Font Awesome](https://fontawesome.com/).
 ## Demo
 - This github page is live .
-- [click Me]() to see demo
+- [click Me](https://madhup73488.github.io/Simple-Weather-App/) to see demo
   
 ## License
 This project is licensed under the [MIT License](LICENSE).
